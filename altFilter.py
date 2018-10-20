@@ -1,7 +1,6 @@
 '''
 Altitude Filter
 By: Matthew D'Alessandro
-This is a fork
 '''
 
 import csv
